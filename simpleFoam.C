@@ -26,6 +26,8 @@ License
 Application
     simpleFoam
 
+I changed this application
+
 Group
     grpIncompressibleSolvers
 
